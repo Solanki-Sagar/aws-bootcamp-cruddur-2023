@@ -16,11 +16,11 @@ I was also able to:
 - Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts. (COMPLETED ABOVE)
 - Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. - ON GOING
 
-##Installing CLI:
+##Installing CLI
 
 ![Proof of CLI Installation](assets/Week0-Proof-of-%20CLI-Installation)
 
-Installed AWS Cli on Mac using the following url: (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
+Installed AWS Cli on Mac using the following url:(https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
 
 ![Verification of AWS CLI](assets/Week0-Verification-of-CLI-Installation)
 
