@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-I completed the homework with some difficulty. 
+## I completed the homework with some difficulty. 
  
 Homework completed: 
 - Billing Alarms on my AWS account - Alarm for $0 and Alarm at $10 with 50% usage trigger. 
