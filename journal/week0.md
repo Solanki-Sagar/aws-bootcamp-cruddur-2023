@@ -15,3 +15,10 @@ I was also able to:
 - Review all the questions of each pillars in the Well Architected Tool (No specialized lens) - ON GOING
 - Create an architectural diagram (to the best of your ability) the CI/CD logical pipeline in Lucid Charts. (COMPLETED ABOVE)
 - Research the technical and service limits of specific services and how they could impact the technical path for technical flexibility. - ON GOING
+
+##Installing CLI: 
+
+Installed AWS Cli on Mac using the following url: (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
+
+**Insert Screenshot**
+
