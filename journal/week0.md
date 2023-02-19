@@ -20,7 +20,7 @@ I was also able to:
 
 ![Proof of CLI Installation](assets/Week0-Proof-of-%20CLI-Installation)
 
-Installed AWS Cli on Mac using the following url:(https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
+Installed AWS CLI on Mac using the following url:(https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) 
 
 ![Verification of AWS CLI](assets/Week0-Verification-of-CLI-Installation)
 
