@@ -35,4 +35,4 @@ I created two alarms, one Montly spend for $10, and another for $0 spend.
 
 ![Logical Architecture](assets/Week0-logical-recreation-diagram)
 
-![Logical Design](https://lucid.app/lucidchart/d438ea4b-20e7-45ba-a19b-339852b44040/edit?viewport_loc=-472%2C-428%2C2276%2C2396%2C0_0&invitationId=inv_037c4633-6bf0-4523-8e9c-241e49594f35)
+![Logical Design](https://lucid.app/lucidchart/d438ea4b-20e7-45ba-a19b-339852b44040/edit?viewport_loc=64%2C-428%2C2358%2C2396%2C0_0&invitationId=inv_037c4633-6bf0-4523-8e9c-241e49594f35)
